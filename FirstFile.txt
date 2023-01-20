@@ -119,3 +119,6 @@ Hi, my name is Khadija and I am looking to become a full stack mobile applicatio
 # Hey, My name is Shivam Bajaj, the Date is 18th September, 2022. 
 My favourite is Cat.
 I am looking forward to learn exciting things in the field of mobile applications this semester which in turn will help me in enhance my technical skills and give much exposure to Software World.
+
+
+# Hi, My name is Gaurang Naik. The Today's date is 19th January 2023. I am from Winter 2023 batch. Thank you.
